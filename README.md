@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rittik Kumar</h1>
-<h3 align="center">I'm an enthusiastic Full Stack Developer crafting smooth web and mobile experiences. I specialize in using Angular, React.js and React Native for the front-end part. On the back-end, I work with Flask, Express.js and Node.js, and I'm comfortable with databases like MongoDB and SQL. I'm also skilled in using the ELK stack for handling data. I'm dedicated to ensuring quality through unit testing and regression testing. When it comes to DevOps, I use tools like Docker, Kubernetes, and Jenkins to streamline the process of integrating and deploying code</h3>
+<h3 align="center">I'm an enthusiastic Full Stack Developer crafting smooth web and mobile experiences.</h3>
 
 - 🔭 I’m currently working as **Software Developer**
 
