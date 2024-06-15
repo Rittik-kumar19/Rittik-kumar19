@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rittik</h1>
 - 🔭 I’m currently working as **Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://rittik-kumar.netlify.app/](https://rittik-kumar.netlify.app/)
-
 - 💬 Ask me about **Angular,Flask,React,React-native,Node.js,Express.js,MongoDB,MySQL**
 
 - 📫 How to reach me **kumarrittik060@gmail.com**
